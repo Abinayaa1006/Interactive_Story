@@ -40,7 +40,7 @@ An interactive, choice-driven story game built using **Python and Pygame**, wher
 ```text
 Chronicles-of-Fate/
 │
-├── main.py                 # Main game file
+├── Interactive_Story.py                 # Main game file
 │
 ├── assets/
 │   ├── images/
